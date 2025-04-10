@@ -10,8 +10,7 @@
 
 ### 🧠 Language Learning
 <p>
-  <img src="https://img.shields.io/badge/Advanced-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ### 🛠 Dev Environment & Collaboration
@@ -32,6 +31,11 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Real--Time%20Rendering-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Game%20Engine%20Architecture-yellowgreen?style=for-the-badge"/>
+</p>
+
+### 🌐 Web
+<p>
+  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white"/>
 </p>
 
 ---
