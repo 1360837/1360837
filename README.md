@@ -1,12 +1,14 @@
-<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=14&height=130&section=header&text=Jiwoo%20Nam&fontSize=60)
 
-**Mathematics** major & **Computer Science and Engineering** double major at [Kyungpook National University](https://knu.ac.kr/wbbs/wbbs/main/main.action)
+🎮 I'm a student with a passion for **game engine development**
 
-A student at [42Gyeongsan](https://42gyeongsan.kr/ko/main.do) [@42School](https://github.com/42school)
+📐 **Mathematics** major & **Computer Science and Engineering** double major at [Kyungpook National University](https://knu.ac.kr/wbbs/wbbs/main/main.action)
+
+👨‍💻 A student at [42Gyeongsan](https://42gyeongsan.kr/ko/main.do) [@42School](https://github.com/42school)
 
 ---
+<div align="center">
 
 ## 📚 Studying...
 
