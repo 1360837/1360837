@@ -1,6 +1,6 @@
 <div align="center">
-  
-# jiwoo Nam 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jiwoo%20Nam&fontSize=70)
 
 **Mathematics** major & **Computer Science and Engineering** double major at Kyungpook National University
 
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Game%20Engine%20Architecture-yellowgreen?style=for-the-badge"/>
 </p>
 
-
+---
 
 ## 💻 Tech Stack
 
@@ -52,6 +52,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ### 🧩 OS / Environment
