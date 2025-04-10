@@ -74,3 +74,6 @@ A student at [42Gyeongsan](https://42gyeongsan.kr/ko/main.do) [@42School](https:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1360837&size_weight=0.5&count_weight=0.5&&layout=compact&theme=vue&hide_border=true&bg_color=fff&hide=Jupyter%20Notebook" height="165">
 <img src="https://github-readme-stats.vercel.app/api?username=1360837&show_icons=true&theme=vue&hide_border=true&bg_color=fff" height="165">
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=14&height=100&section=footer)
+
+</div>
