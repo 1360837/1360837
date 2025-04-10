@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=14&height=300&section=header&text=jiwoo%20Nam&fontSize=60&height=100)
 
-**Mathematics** major & **Computer Science and Engineering** double major at Kyungpook National University
+**Mathematics** major & **Computer Science and Engineering** double major at [Kyungpook National University](https://knu.ac.kr/wbbs/wbbs/main/main.action)
+
+A student at [42 Gyeongsan](https://42gyeongsan.kr/ko/main.do) [@42School](https://github.com/42school)
 
 ---
 
