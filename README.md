@@ -2,8 +2,9 @@
 
 **Mathematics** major & **Computer Science and Engineering** double major at Kyungpook National University
 
-![jiwnam's GitHub stats](https://github-readme-stats.vercel.app/api?username=1360837&show_icons=true&theme=catppuccin_latte)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woowoo4599)](https://solved.ac/woowoo4599)
+<a href="https://github.com/1360837/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1360837&size_weight=0.5&count_weight=0.5&&layout=compact&theme=vue&hide_border=true&bg_color=fff&hide=Jupyter%20Notebook" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=1360837&show_icons=true&theme=vue&hide_border=true&bb_color=fff" height="165">
 
 <!--
 **1360837/1360837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
