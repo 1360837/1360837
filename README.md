@@ -1,6 +1,32 @@
-## jiwoo Nam 👋
+<div align="center">
+  
+# jiwoo Nam 👋
 
 **Mathematics** major & **Computer Science and Engineering** double major at Kyungpook National University
+
+## :sparkles:Tools:sparkles:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vim" />
+      </a>
+      <br>Vim
+    </td>
+  </tr>
+</table>
 
 <a href="https://github.com/1360837/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1360837&size_weight=0.5&count_weight=0.5&&layout=compact&theme=vue&hide_border=true&bg_color=fff&hide=Jupyter%20Notebook" height="165">
@@ -20,3 +46,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
