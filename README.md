@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jiwoo%20Nam&fontSize=70&height=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jiwoo%20Nam&fontSize=60&height=100&fontColor=000000)
 
 **Mathematics** major & **Computer Science and Engineering** double major at Kyungpook National University
 
