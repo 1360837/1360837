@@ -46,11 +46,6 @@
   <img src="https://img.shields.io/badge/Game%20Engine%20Architecture-yellowgreen?style=for-the-badge"/>
 </p>
 
-### 🌐 Web
-<p>
-  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white"/>
-</p>
-
 ### 🧩 OS / Environment
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
