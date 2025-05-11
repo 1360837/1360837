@@ -41,8 +41,10 @@
 
 ### 🎮 Game Development
 <p>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Graphics-9B59B6?style=for-the-badge"/>
+  <!--
   <img src="https://img.shields.io/badge/Real--Time%20Rendering-red?style=for-the-badge"/>
+  -->
   <img src="https://img.shields.io/badge/Game%20Engine%20Architecture-yellowgreen?style=for-the-badge"/>
 </p>
 
